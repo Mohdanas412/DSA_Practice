@@ -1,4 +1,4 @@
-// Problem : Count digits in a number
+// Problem : Reverse Digits of A Numbers
 // Approach :Extract the last digit and keep appending it to a new number.
 // Time Complexity : O(log₁₀N)  & Space Complexity : O(1) .
 // Link : https://takeuforward.org/maths/reverse-digits-of-a-number.
