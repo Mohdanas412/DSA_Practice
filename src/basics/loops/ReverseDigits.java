@@ -4,7 +4,7 @@
 // Link : https://takeuforward.org/maths/reverse-digits-of-a-number.
 // LeetCode : https://leetcode.com/problems/reverse-integer.
 
-package basics.loops;
+//package basics.loops;
 import java.util.Scanner;
 
 public class ReverseDigits {

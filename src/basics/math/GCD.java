@@ -1,9 +1,10 @@
+package basics.math;
 // Problem : Find GCD of two numbers .
 // Approach :Brute Force: Check all possible common divisors and store the largest one.
 // Time Complexity : O(min(n1,n2))  & Space Complexity : O(1) .
 // Link : https://takeuforward.org/data-structure/find-gcd-of-two-numbers.
 
-
+//package basics.math;
 import java.util.Scanner;
 
 public class GCD{

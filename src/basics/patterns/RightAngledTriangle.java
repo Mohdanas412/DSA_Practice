@@ -1,20 +1,20 @@
-// Problem : Pattern-5: Inverted Right Pyramid.
-// Approach : The number of stars decreasing From top to bottom,print N to N-1 till 1 left in the end.
+// Problem : Pattern-2: Right-Angled Triangle Pattern.
+// Approach : In each row, print stars equal to the row number..
 // Time Complexity : O(n^2)  & Space Complexity : O(1) .
-// Link : https://takeuforward.org/pattern/pattern-5-inverted-right-pyramid.
+// Link : https://takeuforward.org/pattern/pattern-2-right-angled-triangle-pattern
 
-
+package basics.patterns;
 import java.util.Scanner;
 
-public class InvertedRightAngled{
+public class RightAngledTriangle{
     public static void main (String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.print("Enter n: ");
             int n = sc.nextInt();
 
-            for(int i = 0; i < n; i++) {
+            for(int i = 1; i <= n; i++) {
 
-                for(int j = n; j > i; j--) {
+                for(int j = 1; j <= i; j++) {
                     System.out.print("* ");
                 }
 

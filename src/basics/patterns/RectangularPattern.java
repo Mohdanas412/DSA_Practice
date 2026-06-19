@@ -3,6 +3,7 @@
 // Time Complexity : O(n^2)  & Space Complexity : O(1) .
 // Link : https://takeuforward.org/pattern/pattern-1-rectangular-star-pattern
 
+package basics.patterns;
 import java.util.Scanner;
 
 public class RectangularPattern{

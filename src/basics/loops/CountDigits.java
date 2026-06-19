@@ -3,7 +3,7 @@
 // Time Complexity : O(n)  & Space Complexity : O(1) .
 // Link : https://takeuforward.org/data-structure/count-digits-in-a-number.
 
-package basics.loops;
+//package basics.loops;
 import java.util.Scanner;
 
 public class CountDigits{

@@ -1,12 +1,12 @@
-// Problem : Pattern-2: Right-Angled Triangle Pattern.
-// Approach : In each row, print stars equal to the row number..
+// Problem : Pattern - 4: Right-Angled Number Pyramid - II.
+// Approach : In each row, print number starting from 1 to row number times.
 // Time Complexity : O(n^2)  & Space Complexity : O(1) .
-// Link : https://takeuforward.org/pattern/pattern-2-right-angled-triangle-pattern
+// Link : https://takeuforward.org/pattern/pattern-3-right-angled-number-pyramid
 
-
+package basics.patterns;
 import java.util.Scanner;
 
-public class RightAngledTriangle{
+public class RightAngledTri_Num_II{
     public static void main (String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.print("Enter n: ");
@@ -15,7 +15,7 @@ public class RightAngledTriangle{
             for(int i = 1; i <= n; i++) {
 
                 for(int j = 1; j <= i; j++) {
-                    System.out.print("* ");
+                    System.out.print(j);
                 }
 
                 System.out.println();

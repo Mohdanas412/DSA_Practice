@@ -4,7 +4,7 @@
 // Link : https://takeuforward.org/data-structure/check-if-a-number-is-palindrome-or-not.
 // LeetCode : https://leetcode.com/problems/palindrome-number.
 
-package basics.loops;
+//package basics.loops;
 import java.util.Scanner;
 
 public class PalindromeNumber {
