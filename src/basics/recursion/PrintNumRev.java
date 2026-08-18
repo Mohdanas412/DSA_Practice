@@ -1,3 +1,8 @@
+// Problem : Recursion: Print N to 1 using Recursion.
+// Approach : Using Forward recursion.
+// Time Complexity : O(n)  & Space Complexity : O(n) .
+// Link : https://takeuforward.org/recursion/print-n-to-1-using-recursion.
+
 import java.util.Scanner;
 
 public class PrintNumRev{
