@@ -19,6 +19,7 @@ public class PrintNum{
         int N = sc.nextInt();
 
         printnum(1,N);
+        sc.close();
 
     }
 }

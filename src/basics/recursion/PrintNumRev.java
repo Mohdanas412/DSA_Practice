@@ -19,6 +19,7 @@ public class PrintNumRev{
         int N = sc.nextInt();
 
         printnumrev(N);
+        sc.close();
 
     }
 }
