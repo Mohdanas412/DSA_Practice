@@ -1,6 +1,6 @@
 import java.util.*;
 
-class MinRotated {
+class MinRotatedArr {
 
     public static int findMin(int[] arr) {
 
