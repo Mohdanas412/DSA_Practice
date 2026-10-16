@@ -26,5 +26,6 @@ class UpperBound {
         }
 
         System.out.println(ans);
+        sc.close();
     }
 }

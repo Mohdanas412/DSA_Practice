@@ -26,6 +26,7 @@ class SearchX {
                 high = mid - 1;
             }
         }
+        sc.close();
 
         System.out.println(-1);
     }
